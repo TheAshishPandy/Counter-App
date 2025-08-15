@@ -1,0 +1,25 @@
+.btn {
+
+    margin: 4vh;
+    height: 80px;
+    padding: 2vh;
+    border-radius: 50%;
+    width: 88px;
+    cursor:pointer;
+}
+.btn-red{
+    background-color: orange;
+
+}
+
+.btn-green{
+    background-color: greenyellow;
+}
+
+.btn-white{
+background-color: whitesmoke;
+}
+
+.btn :hover{
+ border: 2px solid paleturquoise;
+}
